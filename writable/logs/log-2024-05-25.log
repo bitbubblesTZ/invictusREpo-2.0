@@ -1,6 +1,0 @@
-CRITICAL - 2024-05-25 22:10:23 --> CodeIgniter\Filters\Exceptions\FilterException: "auth" filter must have a matching alias defined.
-in SYSTEMPATH/Filters/Filters.php on line 355.
- 1 SYSTEMPATH/Filters/Filters.php(355): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
- 2 SYSTEMPATH/CodeIgniter.php(468): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
- 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
- 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
