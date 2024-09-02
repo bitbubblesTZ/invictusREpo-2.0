@@ -17,7 +17,7 @@ class App extends BaseConfig
      * E.g., http://example.com/
      */
     //public string $baseURL = 'http://localhost:8080/';
-    public string $baseURL = 'http://localhost:8888/invictusRepo-2.0/';
+    public string $baseURL = 'http://localhost:8888/invictusREpo-2.0/';
 
 
     /**
